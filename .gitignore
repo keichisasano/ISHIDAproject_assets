@@ -1,0 +1,13 @@
+backgrounds/
+cuboid_preview/
+datasets/
+infer_results/
+Log/
+mask_preview/
+runs/
+sample_tray/
+.venv/
+*.pt
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,11 @@
+# dataset.yaml の例
+
+# データセットのパス（絶対パスまたは実行環境からの相対パス）
+train: ./datasets/train/images  # 学習用画像のフォルダ
+val: ./datasets/val/images      # 検証用画像のフォルダ
+
+# クラス数
+nc: 1
+
+# クラス名（0番目のクラスが'tray'）
+names: ['tray']
